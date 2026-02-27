@@ -29,8 +29,6 @@ Para poder desarrollar este proyecto, se necesitan instalar las siguientes herra
 ## Capturas de verificación
 Para comprobar que las herramientas están instaladas correctamente, se ejecutaron los siguientes comandos:
 
-<img width="948" height="487" alt="image" src="https://github.com/user-attachments/assets/3facb2bf-3805-4731-beae-687f77880d1a" />
-
 ```bash
 node -v      # Muestra la versión de Node.js
 npm -v       # Muestra la versión de npm
